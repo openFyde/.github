@@ -1,1 +1,1 @@
-# .github
+A ✨special ✨ repository by definition.
