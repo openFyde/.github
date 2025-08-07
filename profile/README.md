@@ -11,6 +11,6 @@ In here you will find numerous individual repositories arranged in a flat hierar
 
 - To learn the basics about getting started with building and developing openFyde, check out the [Getting started](https://github.com/openFyde/getting-started) guide.
 - To download the pre-built image for supported hardware devices, find them under the "Releases" tab in the corresponding "overlay" repository. For a helpful spreadsheet listing all supported devices, visit <https://openfyde.io>.
-- To report an issue related to openFyde, please do so in the corresponding overlay repository of the affected device.
+- To report an issue related to openFyde, please only use this [issues](https://github.com/openFyde/issues) repo - our centralised issue collecting point.
 
 We hope you enjoy working with openFyde, and we look forward to your valuable contributions to this open-source project. If you have any questions or require assistance, don't hesitate to reach out to the community or the project maintainers.
